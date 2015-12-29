@@ -9,7 +9,7 @@ Add lightncandy-l4 as a dependency to your `composer.json` file
 ```json
 "require": {
     "laravel/framework": "4.0.*",
-    "arsenederniere/lightncandy-l4": "dev-master"
+    "nikini/lightncandy-l4": "dev-master"
 }
 ```
     
